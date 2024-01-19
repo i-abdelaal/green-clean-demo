@@ -1,6 +1,9 @@
 {
   "SITE_TITLE": "Car clean services",
   "SITE_DESCRIPTION": "Dry clean",
+  "SITE_KEYWORDS": "dry clean, car clean, car care, car wash, car service, chemical clean, green clean",
+  "HERO_SUBTITLE_1": "Eco-friendly car care",
+  "HERO_SUBTITLE_2": "Indulge your car with our premium green services.",
   "VISION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ipsum est, laoreet eget consectetur vitae.",
   "MISSION": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ipsum est, laoreet eget consectetur vitae, auctor non est. Proin nec felis metus. Pellentesque malesuada, nunc eu rutrum viverra, velit orci finibus erat, eget facilisis libero leo nec dolor. Suspendisse bibendum tempus tellus in tincidunt. Duis iaculis, augue eu volutpat malesuada, quam dui aliquam purus, in imperdiet velit nibh non neque. In hac habitasse platea dictumst. Nunc sodales eleifend sem, nec fermentum massa varius non. Sed sollicitudin enim sed vestibulum placerat.",
   "SERVICE_1": "Chemical cleaning without water",
